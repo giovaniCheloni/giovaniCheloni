@@ -158,6 +158,7 @@ Me chamo Giovani de Queiroz Cheloni, tenho 41 anos e sou natural do Belo Horizon
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovaniCheloni&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      style="padding-right: 10px;" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovaniCheloni&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=7" 
   />
 </p>
